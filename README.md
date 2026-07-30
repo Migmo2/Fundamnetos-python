@@ -2,6 +2,8 @@
 
 Proyecto individual para la evidencia **GA1-220501093-04-AA1-EV01**.
 
+Nombre: Miguel Angel Montoya.
+
 Este repositorio contiene ejercicios practicos de las secciones 1 a 4 de Fundamentos de Python. Cada script se puede ejecutar de forma independiente con Python 3.
 
 ## Estructura
@@ -42,15 +44,15 @@ En Windows tambien puedes usar `py` en lugar de `python`.
 
 El archivo `seccion3/01_operadores_matematicos.py` trabaja con las variables `numero_1 = 10` y `numero_2 = 3`. La logica consiste en aplicar cada operador y mostrar su resultado.
 
-| Operador | Operacion | Resultado | Uso |
-|---|---:|---:|---|
-| `+` | `10 + 3` | `13` | Suma |
-| `-` | `10 - 3` | `7` | Resta |
-| `*` | `10 * 3` | `30` | Multiplicacion |
-| `/` | `10 / 3` | `3.3333333333333335` | Division decimal |
-| `//` | `10 // 3` | `3` | Division entera |
-| `%` | `10 % 3` | `1` | Residuo |
-| `**` | `10 ** 3` | `1000` | Potencia |
+| Operador |   Operacion |              Resultado | Uso              |
+| -------- | ----------: | ---------------------: | ---------------- |
+| `+`    |  `10 + 3` |                 `13` | Suma             |
+| `-`    |  `10 - 3` |                  `7` | Resta            |
+| `*`    |  `10 * 3` |                 `30` | Multiplicacion   |
+| `/`    |  `10 / 3` | `3.3333333333333335` | Division decimal |
+| `//`   | `10 // 3` |                  `3` | Division entera  |
+| `%`    |  `10 % 3` |                  `1` | Residuo          |
+| `**`   | `10 ** 3` |               `1000` | Potencia         |
 
 El mismo programa tambien compara ambos valores con `>`, `<`, `==` y `!=`. Estas expresiones producen valores booleanos (`True` o `False`) y permiten tomar decisiones en un programa.
 
